@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 145251,
+      "title": "Python for dummies",
+      "detail": "this course takes you from zero to hero in python programming language learn the power off python and thinking programmatically",
+      "rating": 4,
+      "price": 120,
+      "best_seller": false,
+      "in_stock": true
+    },
+    {
+      "id": 725436,
+      "title": "JavaScript for Dummies",
+      "detail": "This book will teach you everything you need to know about JavaScript and all native APIs built into the browser.",
+      "rating": 4,
+      "price": 130,
+      "best_seller": false,
+      "in_stock": true
+    },
+    {
+      "id": 951753,
+      "title": "Python Mastery",
+      "detail": "Become a Python expert with comprehensive coverage of advanced topics and projects.",
+      "rating": 4.7,
+      "price": 99,
+      "best_seller": true,
+      "in_stock": true
+    },
+    {
+      "id": 852963,
+      "title": "Java in Practice",
+      "detail": "Practical Java examples and real-world applications for intermediate developers.",
+      "rating": 4.2,
+      "price": 75,
+      "best_seller": false,
+      "in_stock": false
+    },
+    {
+      "id": 159357,
+      "title": "C++ Crash Course",
+      "detail": "Quickly learn C++ with concise examples and hands-on exercises.",
+      "rating": 4.5,
+      "price": 89,
+      "best_seller": true,
+      "in_stock": true
+    },
+    {
+      "id": 246813,
+      "title": "Web Development 101",
+      "detail": "An introductory guide to web development with HTML, CSS, and JavaScript.",
+      "rating": 3.8,
+      "price": 55,
+      "best_seller": true,
+      "in_stock": false
+    },
+    {
+      "id": 369258,
+      "title": "Data Science Essentials",
+      "detail": "Explore the fundamentals of data science and machine learning.",
+      "rating": 4.6,
+      "price": 120,
+      "best_seller": true,
+      "in_stock": true
+    },
+    {
+      "id": 785412,
+      "title": "Ruby on Rails for Beginners",
+      "detail": "Learn Ruby on Rails framework through step-by-step tutorials.",
+      "rating": 4.1,
+      "price": 75,
+      "best_seller": false,
+      "in_stock": true
+    },
+    {
+      "id": 725436,
+      "title": "JavaScript for Dummies",
+      "detail": "This book will teach you everything you need to know about JavaScript and all native APIs built into the browser.",
+      "rating": 4,
+      "price": 130,
+      "best_seller": false,
+      "in_stock": true
+    },
+    {
+      "id": 123456,
+      "title": "Python Crash Course",
+      "detail": "Learn Python programming through hands-on projects and examples for beginners.",
+      "rating": 4.5,
+      "price": 55,
+      "best_seller": true,
+      "in_stock": true
+    },
+    {
+      "id": 789012,
+      "title": "Java Programming 101",
+      "detail": "An introductory guide to Java programming language with practical exercises.",
+      "rating": 4.2,
+      "price": 75,
+      "best_seller": false,
+      "in_stock": false
+    },
+    {
+      "id": 987654,
+      "title": "Web Development with React",
+      "detail": "Master React framework and build dynamic web applications.",
+      "rating": 4.8,
+      "price": 90,
+      "best_seller": true,
+      "in_stock": true
+    },
+    {
+      "id": 987654,
+      "title": "Python for Beginners",
+      "detail": "Discover the fundamentals of Python programming and learn to build exciting projects.",
+      "rating": 4.7,
+      "price": 45,
+      "best_seller": true,
+      "in_stock": false
+    }
+  ]
+}
