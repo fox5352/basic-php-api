@@ -21,7 +21,7 @@ class Router {
 
         foreach ($this->routes as $pattern => $controller){
             //replace placeholders {**} with regex patterns
-            $regex = str_replace(["{**}"], ['([^/]+)'], $pattern);
+            $regex = str_replace(["{id}"], ['([^/]+)'], $pattern);
             
             $regex = "#^" . $regex. "$#";
 

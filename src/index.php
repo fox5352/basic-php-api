@@ -10,7 +10,9 @@ $routes = [
 ];
 
 $route_classes = [
+    "/" => "HomePage",
     "/products" => "ProductsPage",
+    "/products/{id}" => "ProductId",
     "NotFound" => "NotFound", 
 ];
 
