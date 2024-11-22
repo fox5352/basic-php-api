@@ -1,13 +1,13 @@
 {
-    "name": "christopher/basic-api-server",
-    "type": "project",
-    "scripts": {
-        "start": "php -S localhost:8000 -t src/"
-    },
-    "autoload": {
-        "psr-4": {
-            "Christopher\\BasicApiServer\\": "src/"
-        }
-    },
-    "require": {}
+  "name": "christopher/basic-api-server",
+  "type": "project",
+  "scripts": {
+    "start": "php -S localhost:8000 -t src/"
+  },
+  "autoload": {
+    "psr-4": {
+      "Christopher\\BasicApiServer\\": "src/"
+    }
+  },
+  "require": {}
 }
